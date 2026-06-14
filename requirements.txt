@@ -1,0 +1,6 @@
+diffusers==0.37.1
+numpy==2.4.6
+Pillow==12.2.0
+streamlit==1.57.0
+streamlit_drawable_canvas==0.8.0
+torch==2.11.0+cu128
